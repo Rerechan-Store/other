@@ -1,7 +1,7 @@
 #!/bin/bash
 
 clear
-
+mkdir -p /etc/shadowsocks-libev
 # @Rerechan02 | Dev in FN Project Autoscript Kolaborasi bersama dengan PR_Aiman [@praiman99]
 
 # Proses install Shadowsocks-libev
