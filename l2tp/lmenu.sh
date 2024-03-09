@@ -342,7 +342,4 @@ x) clear ; xp ; funny ;;
 esac
 }
 
-
-
-
-
+menu
