@@ -3,6 +3,7 @@
 clear
 
 # Information
+mkdir -p /usr/local/shadowsocksr
 sh_ver="1.0.26"
 filepath=$(cd "$(dirname "$0")"; pwd)
 file=$(echo -e "${filepath}"|awk -F "$0" '{print $1}')
