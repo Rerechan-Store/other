@@ -279,3 +279,8 @@ service xl2tpd restart 2>/dev/null
 touch /var/lib/premium-script/data-user-l2tp
 touch /var/lib/premium-script/data-user-pptp
 rm -f /root/ipsec.sh
+
+# Tambahan File Menu
+wget -O /usr/bin/lmenu "https://raw.githubusercontent.com/Rerechan-Store/other/main/l2tp/lmenu.sh"
+chmod +x /usr/bin/lmenu
+clear
