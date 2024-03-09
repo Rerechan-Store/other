@@ -292,3 +292,5 @@ x) clear ; funny ;;
 *) clear ; echo "Please enter an correct number" ;;
 esac
 }
+
+nma
