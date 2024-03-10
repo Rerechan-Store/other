@@ -44,7 +44,7 @@ echo -e   "  \e[$line═══════════════════�
 	fi
 	
 	# Port Wg
-	wg="$(5820)"
+	wg="5820"
 
 	# Adguard DNS by default
 	CLIENT_DNS_1="1.1.1.1"
